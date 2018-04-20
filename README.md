@@ -22,3 +22,7 @@ The Katz's approach makes sense.
 1. [Katz's back-off model](https://en.wikipedia.org/wiki/Katz%27s_back-off_model)
 
 2. [Estimation of Probabilities from Sparse Data for the Language Model Component of a Speech Recognizer](http://l2r.cs.uiuc.edu/~danr/Teaching/CS546-09/Papers/Katz87.pdf)
+
+3. [Columbia Natural Language Processing Coursera - Part1](https://www.youtube.com/watch?v=hsHw9F3UuAQ)
+
+4. [Columbia Natural Language Processing Coursera - Part2](https://www.youtube.com/watch?v=FedWcgXcp8w)
