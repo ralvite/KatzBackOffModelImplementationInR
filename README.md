@@ -23,6 +23,4 @@ The Katz's approach makes sense.
 
 2. [Estimation of Probabilities from Sparse Data for the Language Model Component of a Speech Recognizer](http://l2r.cs.uiuc.edu/~danr/Teaching/CS546-09/Papers/Katz87.pdf)
 
-3. [Columbia Natural Language Processing Coursera - Part1](https://www.youtube.com/watch?v=hsHw9F3UuAQ)
-
-4. [Columbia Natural Language Processing Coursera - Part2](https://www.youtube.com/watch?v=FedWcgXcp8w)
+3. [Columbia Natural Language Processing Coursera](https://www.youtube.com/watch?v=mieV29RVpuQ&list=PL0ap34RKaADMjqjdSkWolD-W2VSCyRUQC)
